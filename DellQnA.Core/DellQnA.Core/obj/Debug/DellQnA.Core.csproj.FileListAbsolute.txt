@@ -89,3 +89,7 @@ C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\obj
 C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\obj\Debug\DellQnA.Core.csproj.CopyComplete
 C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\obj\Debug\DellQnA.Core.dll
 C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\obj\Debug\DellQnA.Core.pdb
+C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\bin\EntityFramework.dll
+C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\bin\EntityFramework.SqlServer.dll
+C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\bin\EntityFramework.xml
+C:\Users\Kaushambi_Gujral\Documents\GitHub\DellQnA\DellQnA.Core\DellQnA.Core\bin\EntityFramework.SqlServer.xml
